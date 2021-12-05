@@ -3,7 +3,7 @@
 
 <h2> api</h2>
 
- 1) create personal bot with <a href="https://t.me/botfather">BotFather</a>
+ 1) create telegram bot with <a href="https://t.me/botfather">BotFather</a>
 
  2) get your api token to connect script 
 
