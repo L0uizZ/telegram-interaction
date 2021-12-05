@@ -1,5 +1,0 @@
-https://telegram.me/BotFather
-
-pip install python-telegram-bot
-pip install request
-
