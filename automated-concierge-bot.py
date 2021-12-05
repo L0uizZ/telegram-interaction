@@ -19,7 +19,7 @@ dispatcher = updater.dispatcher
 # FUNCTIONAL METHODS
 def start(update, context):
     context.bot.send_chat_action(chat_id=update.effective_chat.id, action=telegram.ChatAction.TYPING)
-    context.bot.send_message(chat_id=update.effective_chat.id, text="Sgeht, brauchst du /halalp? ¯\_(ツ)_/¯")
+    context.bot.send_message(chat_id=update.effective_chat.id, text="hello friend, please run /help to see our services")
     
 def select(update, context):
     context.bot.send_chat_action(chat_id=update.effective_chat.id, action=telegram.ChatAction.TYPING)
