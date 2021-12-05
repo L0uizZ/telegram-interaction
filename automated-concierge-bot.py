@@ -1,3 +1,10 @@
+"""
+-------------------------------------------------
+# Telegram - Automated Concierge Bot
+-------------------------------------------------
+"""
+__author__ = "Louis Hinz"
+__version__ = "0.0.1"
 
 from telegram.ext import MessageHandler, Filters, Updater, CommandHandler, CallbackQueryHandler
 from telegram import InlineKeyboardMarkup, InlineKeyboardButton

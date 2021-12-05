@@ -1,7 +1,7 @@
 
 <h1>Telegram - Automated Concierge Bot</h1>
 
-<h2> create bot and get api-token</h2>
+<h2> api-token</h2>
 
  1) create personal bot with <a href="https://t.me/botfather">BotFather</a>
 
