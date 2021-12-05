@@ -1,5 +1,5 @@
 
-<h1>Telegram - Automated Concierge Bot</h1>
+<h1>Telegram - Concierge Bot</h1>
 
 <h2> api</h2>
 
@@ -25,6 +25,6 @@
 
 <h2> run </h2>
 
- 1) run telegram bot with personal token
+ 1) run telegram bot with your api token
 
-         python automated-concierge-bot.py YOURTOKEN
+         python concierge-bot.py YOURTOKEN
